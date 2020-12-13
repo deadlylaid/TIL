@@ -6,3 +6,11 @@ Today I Learn
 ### pytest
 
 - [fixture scope](./python/pytest/fixture_scope.md)
+
+
+## algorithm
+
+### 프로그래머스
+
+- [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) - [풀이](./algorithm/progremmers/lifeboat.py)
+- [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) - [풀이](./algorithm/progremmers/bigger_than.py)
