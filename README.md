@@ -5,4 +5,4 @@ Today I Learn
 
 ### pytest
 
-- [fixture scope](./python/fixture_scope.md)
+- [fixture scope](./python/pytest/fixture_scope.md)
