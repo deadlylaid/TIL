@@ -17,3 +17,5 @@ Today I Learn
 - [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) - [풀이](./algorithm/progremmers/hopscotch.py)
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - [풀이](./algorithm/progremmers/camouflage.py)
 - [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) - [풀이](./algorithm/progremmers/fibonacci.py)
+- [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) - [풀이](./algorithm/progremmers/make_big_number.py)
+- [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) - [풀이](./algorithm/progremmers/biggest_smallest.py)
