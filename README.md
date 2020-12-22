@@ -19,3 +19,4 @@ Today I Learn
 - [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) - [풀이](./algorithm/progremmers/fibonacci.py)
 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) - [풀이](./algorithm/progremmers/make_big_number.py)
 - [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) - [풀이](./algorithm/progremmers/biggest_smallest.py)
+- [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) - [풀이](./algorithm/progremmers/h_index.py)
