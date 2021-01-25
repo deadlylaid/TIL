@@ -196,3 +196,58 @@ add5(6); // 11
 add20(7); // 27
 ```
 
+
+
+## Class
+
+ES6 이후 클래스를 직접 선언 할 수 있다.
+
+```javascript
+class Reactangle {
+  constructor(height, weight) {
+    this.height = height;
+    this.weight = weight;
+  }
+}
+```
+
+### Hoisting(호이스팅)
+
+클래스로 선언하면 호이스팅이 일어나지 않는다.
+
+> 호이스팅이란? js 함수 내에 있는 모든 선언들을 해당 함수의 최상단으로 끌어올리는 것을 의미한다.
+>
+> ```javascript
+> // 예시
+> console.log(a);
+> var a = 'h1';
+> console.log(a);
+>
+> // 호이스팅 이후
+> var a;
+> console.log(a);
+> a = 'h1';
+> console.log(a);
+> ```
+
+
+
+### Class 메소드
+
+```javascript
+class Reactangle {
+  constructor(height, weight) {
+    this.height = height;
+    this.weight = weight;
+  }
+  get area() {
+    return this.calArea();
+  }
+  calArea() {
+    return this.height * this.weight;
+  }
+}
+
+const square = new Reactangle(10, 10);
+```
+
