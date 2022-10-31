@@ -1,0 +1,1 @@
+-r kafka-tutorial/requirments.txt
