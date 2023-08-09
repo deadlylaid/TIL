@@ -11,8 +11,12 @@
             "id": "180b61f1c19e7753",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. 몽고의 기본.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. 몽고의 기본.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. 몽고의 기본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. 몽고의 기본.md"
+              }
             }
           }
         ]
@@ -138,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e25741e2e794937",
+  "active": "180b61f1c19e7753",
   "lastOpenFiles": [
-    "query.md"
+    "img/screenshot.png.md",
+    "img",
+    "mongo.jpg",
+    "query.md",
+    "2. 몽고의 기본.md"
   ]
 }
